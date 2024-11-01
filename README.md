@@ -1,1 +1,1 @@
-# Lexicon2024
+"Initial project documentation"
